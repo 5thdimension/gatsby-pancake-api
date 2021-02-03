@@ -17,10 +17,7 @@ function Index() {
       <Helmet>
         <title>API</title>
       </Helmet>
-      <h1>5thdimension/h1>
 
-
-      <p>{date ? date : 'Loading date...'}</p>
     </main>
   );
 }
